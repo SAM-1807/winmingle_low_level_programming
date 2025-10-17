@@ -1,0 +1,117 @@
+For information about GNU Emacs and the GNU system, type C-h C-a.
+previous-line: Beginning of buffer
+Defining kbd macro...
+Undo
+Already defining keyboard macro.
+Keyboard macro defined
+Undo
+Already defining keyboard macro.
+(Type e to repeat macro)
+Quit [2 times]
+Undo [2 times]
+Redo
+Undo
+Redo
+Undo [2 times]
+Auto-saving...done
+command-execute: The mark is not set now, so there is no region [3 times]
+Quit
+ESC C-M-g is undefined
+Quit
+ESC C-M-d is undefined
+command-execute: The mark is not set now, so there is no region
+Quit
+Auto-saving...done
+ESC M-DEL is undefined
+command-execute: The mark is not set now, so there is no region [3 times]
+Defining kbd macro...
+Quit
+Defining kbd macro...
+Auto-saving...done
+command-execute: The mark is not set now, so there is no region
+Undo
+Auto-saving...
+(Type e to repeat macro) [3 times]
+kmacro-end-macro: Not defining kbd macro
+Quit
+Defining kbd macro...
+Keyboard macro defined
+(Type e to repeat macro)
+C-h DEL is undefined
+Defining kbd macro...
+Keyboard macro defined
+(Type e to repeat macro)
+C-h DEL is undefined
+Defining kbd macro...
+Keyboard macro defined
+(Type e to repeat macro)
+Undo [2 times]
+command-execute: The mark is not set now, so there is no region [2 times]
+next-line: End of buffer [4 times]
+previous-line: Beginning of buffer [2 times]
+command-execute: The mark is not set now, so there is no region
+Auto-saving...
+previous-line: Beginning of buffer
+Mark set
+Auto-saving...done
+Saving file /data/data/com.termux/files/home/emacs_assignment/numbers_doubled.txt....
+Wrote /data/data/com.termux/files/home/emacs_assignment/numbers_doubled.txt.
+You can run the command ‘write-file’ with C-x C-w
+Wrote /data/data/com.termux/files/home/emacs_assignment/numbers_doubled.txt.
+Quit
+previous-line: Beginning of buffer [2 times]
+funcall-interactively: Beginning of buffer
+Defining kbd macro...
+Keyboard macro defined
+(Type e to repeat macro)
+Undo
+(Type e to repeat macro) [2 times]
+Undo
+(Type e to repeat macro) [8 times]
+Auto-saving...
+Saving file /data/data/com.termux/files/home/emacs_assignment/numbers_final.txt....
+Wrote /data/data/com.termux/files/home/emacs_assignment/numbers_final.txt.
+You can run the command ‘write-file’ with C-x C-w
+Wrote /data/data/com.termux/files/home/emacs_assignment/numbers_final.txt.
+You can run the command ‘dired’ with C-x d
+Move: 1 of 1
+Move: 1 file done
+Copy: 1 of 1
+Copy: 1 file done
+Deleting...done
+file1.txt has auto save data; consider M-x recover-this-file
+You can run the command ‘find-file’ with C-x C-f
+file1.txt has auto save data; consider M-x recover-this-file
+You can run the command ‘find-file’ with C-x C-f
+Quit
+(New file)
+next-line: End of buffer [7 times]
+Updating buffer list...
+Formats have changed, recompiling...done
+Updating buffer list...done
+Commands: m, u, t, RET, g, k, S, D, Q; q to quit; h for help
+previous-line: Beginning of buffer [2 times]
+Mark set
+Mark deactivated
+ibuffer-current-buffer: No buffer on this line
+Mark activated
+Updating buffer list...done
+Quit
+command-execute: Buffer is read-only: #<buffer *Ibuffer*> [3 times]
+C-h C-_ is undefined
+command-execute: Buffer is read-only: #<buffer *Ibuffer*> [4 times]
+Mark set
+Updating buffer list...done
+Commands: m, u, t, RET, g, k, S, D, Q; q to quit; h for help
+command-execute: Buffer is read-only: #<buffer *Messages*>
+Updating buffer list...
+Formats have changed, recompiling...done
+Updating buffer list...done
+Commands: m, u, t, RET, g, k, S, D, Q; q to quit; h for help
+Mark set
+(No files need saving)
+apply: No buffer on this line
+Quit
+Marked 2 buffers
+Quit
+Marked 7 buffers

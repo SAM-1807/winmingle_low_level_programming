@@ -1,0 +1,18 @@
+  /data/data/com.termux/files/home/emacs_assignment:
+  -rw-------. 1 u0_a122 u0_a122   22 Oct 10 06:03 #file1.txt#
+  -rw-------. 1 u0_a122 u0_a122   20 Oct 10 06:11 #numbers.txt#
+C -rw-------. 1 u0_a122 u0_a122  190 Oct  9 22:03 story_copy.txt.
+  -rw-------. 1 u0_a122 u0_a122  190 Oct  9 22:03 #story.txt#
+  -rw-------. 1 u0_a122 u0_a122  190 Oct  9 18:33 #story.txt#~
+  drwx------. 2 u0_a122 u0_a122 4096 Oct 10 10:44 .
+  lrwxrwxrwx. 1 u0_a122 u0_a122   38 Oct 10 06:00 .#file1.txt -> u0_a122@localhost.19569:1759931075
+  lrwxrwxrwx. 1 u0_a122 u0_a122   38 Oct 10 06:10 .#numbers.txt -> u0_a122@localhost.19569:1759931075
+  lrwxrwxrwx. 1 u0_a122 u0_a122   38 Oct  9 17:34 .#story.txt -> u0_a122@localhost.3191:1759931075
+  drwx------. 9 u0_a122 u0_a122 4096 Oct 10 09:40 ..
+  -rw-------. 1 u0_a122 u0_a122   22 Oct  9 23:32 file1.txt
+  -rw-------. 1 u0_a122 u0_a122   16 Oct  9 22:58 file1.txt~
+  -rw-------. 1 u0_a122 u0_a122   15 Oct  9 22:59 file2.txt
+  -rw-------. 1 u0_a122 u0_a122   38 Oct  9 13:28 intro_old.txt.
+  -rw-------. 1 u0_a122 u0_a122   38 Oct  9 17:28 intro_v1.txt. 
+  -rw-------. 1 u0_a122 u0_a122   20 Oct 10 10:37 numbers_doubled.txt.
+  -rw-------. 1 u0_a122 u0_a122   69 Oct 10 10:44 numbers_final.txt.
