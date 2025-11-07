@@ -1,1 +1,0 @@
-Result sent to server!
