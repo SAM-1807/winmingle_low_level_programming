@@ -53,3 +53,5 @@ cd vim_assignment
 ls 
 ls -a
 vim story.txt
+clear
+git remote -v
